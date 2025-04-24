@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         // prueba para commit
+        // prueba 2
         setContentView(R.layout.activity_main);
         Button mLLamarButton    = findViewById(R.id.buttonLlamar);
         Button mWebButton       = findViewById(R.id.buttonWeb);
